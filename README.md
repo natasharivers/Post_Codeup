@@ -1,10 +1,8 @@
-# Post Codeup
+# Post-Codeup: Python
 <br>
-This repository contains self-paced practice code.
-<br>
-In this repo there is practice and notes for:
 
-    - Python
-    - Java
-    - SQL (coming soon)
-    
+This repository was dedicated to self-paced practice code using Python during my time directly after graduating from Codeup.
+
+<br>
+In addition, there are also several notebooks that contrain notes I took while completing a Python course.
+
