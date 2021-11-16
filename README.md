@@ -1,8 +1,13 @@
-# Post-Codeup: Python
-<br>
-
-This repository was dedicated to self-paced practice code using Python during my time directly after graduating from Codeup.
+# Post Codeup
 
 <br>
-In addition, there are also several notebooks that contrain notes I took while completing a Python course.
 
+## Python:
+Several notebooks in this repository were dedicated to self-paced practice code using Python.
+- In addition, there are also many notebooks that contain notes I took while completing a Python course.
+
+## Splunk:
+Other notebooks in this repository were dedicated to my tutorial notes on Splunk. 
+<br>
+
+**All items in the repo were created after my graduation from Codeup.**
